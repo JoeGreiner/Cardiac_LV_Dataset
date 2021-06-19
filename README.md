@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/24453528/122386380-2049ed00-cf6e-11eb-
 
 ## :writing_hand: Citation / Attribution
 
-The creation and curation of the dataset was long time effort. We would also like to attribute the work of Thomas Kok, who contributed with segmentations. If you use the dataset or find it helpful, please reference our paper:
+The creation and curation of the dataset was a long time effort. We would also like to attribute the work of Thomas Kok, who contributed with segmentations. If you use the dataset or find it helpful, please reference our paper:
 
 
 > <b>Greiner†, J., Sankarankutty†
